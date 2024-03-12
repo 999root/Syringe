@@ -37,9 +37,14 @@ class Inject:
     # Get the Handle from the PID
     def load_from_pid(self, pid):
         try:
+            # Release memory
             self.unload()
+
+            # Set our pid object to a ulong
             self.pid = c_ulong(pid)
-            self.handle = self.kernel32.OpexnProcess(self.PROC_ALL_ACCESS, 0, pid)
+
+            # Open our process handle
+            self.handle = self.kernel32.OpenProcess(self.PROC_ALL_ACCESS, 0, pid)
 
             if not self.handle:
                 print("self.handle: Not True")
