@@ -1,9 +1,14 @@
-# Syringe: Python DLL Injector Module
-Syringe is a powerful and versatile Python DLL (Dynamic Link Library) injector module designed to provide developers and security professionals with a robust tool for injecting dynamic link libraries into running processes. This module offers seamless integration into Python scripts, enabling users to leverage the flexibility and ease of Python programming for dynamic code injection tasks.
+# Syringe: DLL Injector Module
+Syringe is a sophisticated multi-language DLL (Dynamic Link Library) injection library designed to facilitate dynamic code injection into running processes across various programming languages. This powerful library empowers developers and security professionals with the capability to seamlessly inject DLLs into target processes, enabling a wide range of applications from debugging and reverse engineering to game hacking and software development.
+
 # Installation
-## Git
+- Git
 ```
 git clone https://github.com/999root/Syringe.git
 ```
-## Copy and Paste
+
+- Copy and Paste
 Create a new .py file and copy paste the code to it and import the program
+
+# What I intend on offering
+I intend on creating Syringe as a quick and easy module for programmers to use to quickly whip together Flexible DLL Injectors for old games. This isn't for games like Fortnite or COD which require much more complicated ways of creating cheats but for people who use Game Hacking as crutch to expand their knowledge of Computers and their OS.
