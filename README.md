@@ -1,5 +1,5 @@
 # Syringe: DLL Injector Module
-Syringe is a sophisticated multi-language DLL (Dynamic Link Library) injection library designed to facilitate dynamic code injection into running processes across various programming languages. This powerful library empowers developers and security professionals with the capability to seamlessly inject DLLs into target processes, enabling a wide range of applications from debugging and reverse engineering to game hacking and software development.
+Syringe is a multi-language DLL (Dynamic Link Library) injection library designed to facilitate dynamic code injection into running processes across various programming languages. This powerful library empowers developers and security professionals with the capability to seamlessly inject DLLs into target processes, enabling a wide range of applications from debugging and reverse engineering to game hacking and software development.
 
 # Installation
 - Git
