@@ -5,3 +5,5 @@ Syringe is a powerful and versatile Python DLL (Dynamic Link Library) injector m
 ```
 git clone https://github.com/999root/Syringe.git
 ```
+## Copy and Paste
+Create a new .py file and copy paste the code to it and import the program
